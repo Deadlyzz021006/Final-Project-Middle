@@ -1,0 +1,6 @@
+{
+    "Shop": true,
+    "Migration": true,
+    "CreateTokoTable": true,
+    "Toko": true
+}
